@@ -1,0 +1,67 @@
+a {
+    color: black;
+}
+
+table.main {
+
+    border: 0px;
+    margin: 5px;
+
+
+}
+
+table.main td {
+
+    vertical-align: top;
+    font-family: verdana, arial, helvetica, sans-serif;
+    font-size: 11px;
+}
+
+table.body td {
+    border: 1px solid black;
+}
+
+table.main th {
+    border-width: 1px 1px 1px 1px;
+    padding: 1px;
+    background-color: #ccb4cd;
+}
+
+table.main a {
+    TEXT-DECORATION: none;
+}
+
+.legend {
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 50px;
+}
+
+.best {
+    position: absolute;
+    top: 250px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.box {
+    float: left;
+    height: 20px;
+    width: 20px;
+    margin-bottom: 15px;
+    border: 1px solid black;
+    clear: both;
+    margin-right: 5px;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: #50C878;
+}
+
+.yellow {
+    background-color: yellow;
+}
